@@ -1,16 +1,6 @@
-# final_projesi
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran görüntüsü 2024-06-09 130443](https://github.com/Batuhangokbudak/Flutter_Final/assets/120169258/a00c90e7-b835-4102-b872-f49694c70555)
+![card](https://github.com/Batuhangokbudak/Flutter_Final/assets/120169258/67c3596f-7a62-4f99-8aa8-5a911d023354)
+![Menu](https://github.com/Batuhangokbudak/Flutter_Final/assets/120169258/55d51f5a-8c2f-406c-9c90-ae05007b8ba0)
+![Profile](https://github.com/Batuhangokbudak/Flutter_Final/assets/120169258/3e159635-37e2-4d61-ad9a-6000915c3c50)
+![Login_gece](https://github.com/Batuhangokbudak/Flutter_Final/assets/120169258/ec95f8bc-e37c-4f1b-8b74-d97e19d78f09)
+![Login_Gündüz](https://github.com/Batuhangokbudak/Flutter_Final/assets/120169258/53951da6-d683-4a61-8fab-2eb616940243)
