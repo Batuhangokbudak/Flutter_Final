@@ -48,7 +48,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
                 ),
               ),
               decoration: BoxDecoration(
-                color: Colors.blue,
+                color: Colors.red,
                 image: DecorationImage(
                   fit: BoxFit.fill,
                   image: NetworkImage(
