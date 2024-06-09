@@ -18,7 +18,7 @@ class PopularItemsWidget extends StatelessWidget {
                   width: 170,
                   height: 225,
                   decoration: BoxDecoration(
-                      color: Colors.white,
+                      color: const Color.fromARGB(255, 105, 102, 102),
                       borderRadius: BorderRadius.circular(10),
                       boxShadow: [
                         BoxShadow(

@@ -60,7 +60,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
               leading: Icon(Icons.menu_book),
               title: Text(isEnglish ? 'Menu' : 'Menü'),
               onTap: () {
-                Navigator.pop(context); // Drawer'ı kapat
+                Navigator.pop(context); // Drawer'ı kapattık
                 Navigator.push(
                   context,
                   MaterialPageRoute(builder: (context) => HomePage()),
