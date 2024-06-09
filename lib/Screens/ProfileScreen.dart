@@ -15,7 +15,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(isEnglish ? 'User Profile' : 'Kullanıcı Profili'),
+        title: Text(isEnglish ? 'User Profile' : 'Kullanici Profili'),
         actions: [
           IconButton(
             icon: Icon(Icons.language),
