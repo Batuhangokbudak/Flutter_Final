@@ -74,7 +74,7 @@ class DrawerWidget extends StatelessWidget {
                   color: Colors.red,
                 ),
                 title: Text(
-                  "Sepetim",
+                  "Sepetimm",
                   style: TextStyle(
                     fontSize: 18,
                     fontWeight: FontWeight.bold,
