@@ -68,7 +68,7 @@ class PopularItemsWidget extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween ,
                           children: [
                             Text(
-                              "200 TL",
+                              "500 TL",
                               style: TextStyle(
                                 fontSize: 17,
                                 color: Colors.red,
